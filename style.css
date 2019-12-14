@@ -332,6 +332,9 @@ display: none;
 .article3-text-btn{
    margin:30px 139px 0px 138px;
 }
+.article3-text-btn-M{
+    display: none;
+}
 .article3-text-btn-S{
     display: none;
 }
